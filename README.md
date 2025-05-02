@@ -10,4 +10,4 @@ Estudante de programação. Conhecimentos sobre APIs, back-end, java, postgreSQL
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuriGUs&repo=Funilaria.git.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuriGUs&repo=Funilaria#.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
