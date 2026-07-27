@@ -10,7 +10,7 @@ Estudante de programação. Conhecimentos sobre APIs, back-end, java, postgreSQL
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGUs&layout=compact)](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
+ ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=YuriGUs&langs_count=4)
 
 ### Contatos
 
