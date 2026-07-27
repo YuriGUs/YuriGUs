@@ -8,13 +8,9 @@ Estudante de programação. Conhecimentos sobre APIs, back-end, java, postgreSQL
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=YuriGUs)](https://github.com/stats-organization/github-stats-extended)
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuriGUs&repo=Funilaria#.github.io&theme=dark)](https://github.com/stats-organization/github-stats-extended)
-
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGUs&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGUs&layout=compact)](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
 
 ### Contatos
 
