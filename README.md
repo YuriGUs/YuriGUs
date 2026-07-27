@@ -6,7 +6,7 @@ Estudante de programação. Conhecimentos sobre APIs, back-end, java, postgreSQL
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriGUs&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=YuriGUs)](https://github.com/stats-organization/github-stats-extended)
 
 ### Projetos
 
